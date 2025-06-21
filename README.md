@@ -57,12 +57,12 @@ Tech: Flask • MySQL • APIs • JWT
 ### StakeHolder Log 
 A powerful dashboard to manage tasks, timelines, stakeholders & risks — for learners and professionals alike.  
 Tech: React • Flask • MySQL  
-🔗 [View Projec](https://github.com/omvashishtha/stakeholder-log)
+🔗 [View Project](https://github.com/omvashishtha/stakeholder-log)
 
 ### PRISM - Task Prioritization Tool  
 Prioritizes your work using AI + Eisenhower Matrix. Because “ASAP” isn’t always the answer.  
 Tech: Flask • OpenAI API • JavaScript  
-🔗 [View Projec](https://github.com/omvashishtha/prism-task-prioritization)
+🔗 [View Project](https://github.com/omvashishtha/prism-task-prioritization)
 
 ---
 
