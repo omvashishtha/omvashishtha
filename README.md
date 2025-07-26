@@ -80,4 +80,4 @@ Got a collab idea or want to geek out over project tools?
 
 ---
 
-*Fueled by green tea and chaotic good energy — this README evolves faster than my caffeine tolerance.*
+*Fueled by green tea and chaotic good energy — this README evolves faster than my caffeine(12.12.03) tolerance.*
