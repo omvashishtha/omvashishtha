@@ -69,11 +69,9 @@ Tech: Flask • OpenAI API • JavaScript
 ## Let's Connect
 
 Got a collab idea or want to geek out over project tools?  
-[Mail](mailto:omvashishtha3@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/om-vashishtha)  
+[Mail](mailto:omvashishtha.ov@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/omvashishtha)  
 [Check out my Portfolio](https://omvashishtha.online) (evolving 🚧)
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
