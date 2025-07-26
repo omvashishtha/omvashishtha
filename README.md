@@ -1,6 +1,6 @@
 <img src="cover.png" alt="GitHub Banner" width="100%" />
 
-# 👋 Hey there, I'm Om Vashishtha!
+# Hey there, I'm Om Vashishtha!
 
 A **Project Manager with a passion for tech**, a soft spot for clean dashboards, and a firm belief that even a to-do list can be beautiful (and strategic 😎). Currently working at **Amazon**, finishing my **BCA**, and building projects that solve real problems.
 
