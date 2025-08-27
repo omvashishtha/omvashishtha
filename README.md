@@ -47,25 +47,6 @@ A **Project Manager with a passion for tech**, a soft spot for clean dashboards,
 
 ---
 
-## Projects I'm Proud Of
-
-### Cybersecurity Awareness & Phishing Detection Platform  
-My **BCA Final Year Project** – detects phishing links, promotes cybersecurity awareness, and helps users stay safe online.  
-Tech: Flask • MySQL • APIs • JWT  
-🔗 [View Project](https://github.com/omvashishtha/phishing-detection-platform)
-
-### StakeHolder Log 
-A powerful dashboard to manage tasks, timelines, stakeholders & risks — for learners and professionals alike.  
-Tech: React • Flask • MySQL  
-🔗 [View Project](https://github.com/omvashishtha/stakeholder-log)
-
-### PRISM - Task Prioritization Tool  
-Prioritizes your work using AI + Eisenhower Matrix. Because “ASAP” isn’t always the answer.  
-Tech: Flask • OpenAI API • JavaScript  
-🔗 [View Project](https://github.com/omvashishtha/prism-task-prioritization)
-
----
-
 ## Let's Connect
 
 Got a collab idea or want to geek out over project tools?  
@@ -81,3 +62,4 @@ Got a collab idea or want to geek out over project tools?
 ---
 
 *Fueled by green tea and chaotic good energy — this README evolves faster than my caffeine(12.12.03) tolerance.*
+
