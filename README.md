@@ -52,7 +52,7 @@ A **Project Manager with a passion for tech**, a soft spot for clean dashboards,
 Got a collab idea or want to geek out over project tools?  
 [Mail](mailto:omvashishtha.ov@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/omvashishtha)  
-[Check out my Portfolio](https://omvashishtha.online) (evolving 🚧)
+[Check out my Portfolio](https://omvashishtha.in) (evolving 🚧)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -62,4 +62,5 @@ Got a collab idea or want to geek out over project tools?
 ---
 
 *Fueled by green tea and chaotic good energy — this README evolves faster than my caffeine(12.12.03) tolerance.*
+
 
