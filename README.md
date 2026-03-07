@@ -113,7 +113,7 @@ Automation should remove friction, not add complexity.
 # 🌐 Let's Connect
 
 📧 Mail  
-mailto:omvashishtha0412@gmail.com  
+mailto:hello@omvashishtha.in
 
 💼 LinkedIn  
 https://www.linkedin.com/in/omvashishtha  
@@ -135,6 +135,7 @@ GitHub snake animation
 
 If you want, I can also show you one upgrade that will make your GitHub look 10× better instantly:
 a professional GitHub header banner (like Google engineers use) with your name + tagline.
+
 
 
 
