@@ -1,66 +1,153 @@
 <img src="cover.png" alt="GitHub Banner" width="100%" />
 
-# Hey there, I'm Om Vashishtha!
+# Hello, I'm Om Vashishtha
 
-A **Project Manager with a passion for tech**, a soft spot for clean dashboards, and a firm belief that even a to-do list can be beautiful (and strategic 😎). Currently working at **Amazon**, finishing my **BCA**, and building projects that solve real problems.
+**Technical Project Manager @ Amazon | Product Systems & Automation Builder**
+
+I work on building systems that actually work — not just in theory, but in real execution.
+
+My focus is on turning **ambiguous goals into clear decisions, scalable processes, and predictable delivery systems**.
+
+Currently:
+
+- 🏢 **Technical Project Manager at Amazon**
+- 🎓 **BCA – Computer Science**
+- ⚙️ Building systems across **AI automation, product workflows, and cybersecurity tools**
+
+My work sits at the intersection of **execution clarity, decision quality, and scalable technology systems.**
 
 ---
 
-## About Me (a quick byte)
-- Full-time **Project Manager at Amazon** – helping turn chaos into clarity, one project at a time.
-- Final-year **BCA student** – because multitasking makes life more thrilling.
-- Tech explorer – I build tools in **Project Management**, **Cybersecurity**, and **AI** that make life (and work) simpler.
-- Currently diving deeper into **Product Management** & **GenAI**, because why stop at just one tech obsession?
+# Professional Overview
+
+- Technical Project Manager experienced in delivering **product-led systems, automation platforms, and SaaS solutions**
+- Skilled in **Agile execution, stakeholder alignment, and delivery optimization**
+- Builder of **AI-powered tools, operational dashboards, and automation workflows**
+- Interested in **Product Management, AI systems, automation strategy, and cybersecurity**
 
 ---
 
-## Tech Stack I Use:
+# ⚙️ Technical Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+`HTML5` • `CSS3` • `JavaScript`
 
-### Backend & Logic
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Backend & Development
+`Python` • `Flask`
 
 ### Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### APIs & Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Safe Browsing](https://img.shields.io/badge/Google%20Safe%20Browsing-34A853?style=for-the-badge&logo=google)
-![PhishTank](https://img.shields.io/badge/PhishTank-blue?style=for-the-badge)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Project & Task Management
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+`MySQL` • `SQL`
 
 ---
 
-## Let's Connect
+# Cybersecurity & Security Tools
 
-Got a collab idea or want to geek out over project tools?  
-[Mail](mailto:omvashishtha.ov@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/omvashishtha)  
-[Check out my Portfolio](https://omvashishtha.in) (evolving 🚧)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+`JWT Authentication`  
+`Google Safe Browsing API`  
+`PhishTank API`  
+`Phishing Detection Systems`  
+`Security Monitoring Dashboards`
 
 ---
 
-*Fueled by green tea and chaotic good energy — this README evolves faster than my caffeine(12.12.03) tolerance.*
+# AI & Automation
+
+`OpenAI API`  
+`Ollama`  
+`n8n`  
+`Zapier`  
+`Make.com`
+
+Used for building **automation workflows, AI-powered systems, and operational tools.**
+
+---
+
+# 💻Operating Systems
+
+`Linux`  
+`Ubuntu`  
+`Windows`
+
+Comfortable working in **Linux environments for development, automation systems, and security tooling.**
+
+---
+
+# Tools & Platforms
+
+### Development Tools
+`Git` • `GitHub` • `VS Code` • `Postman`
+
+### Product & Project Management
+
+`Jira`  
+`Notion`  
+`ClickUp`  
+`Trello`  
+`Confluence`  
+`Figma (Basic)`
+
+Used for **roadmapping, sprint planning, backlog management, and cross-team coordination.**
+
+---
+
+# Current Focus
+
+Areas where I currently focus my work.
+
+My work spans **product development, execution systems, and automation platforms** designed to help teams operate more effectively.
+
+I'm particularly interested in building tools that **remove friction from everyday work** — whether through better decision visibility, automation workflows, or structured operating systems for teams.
+
+Current areas of focus include:
+
+- AI-powered automation systems  
+- Execution and delivery frameworks  
+- Product workflow design  
+- Cybersecurity awareness tools  
+- Operational dashboards and decision systems  
+
+---
+
+# How I Work
+
+Principles that guide my work.
+
+### Clarity Before Speed
+Most delivery problems are not technical. They come from unclear expectations and delayed decisions. I focus on creating clarity so teams can move faster with confidence.
+
+### Systems Over Heroics
+Reliable systems outperform last-minute heroics. I design workflows, tools, and operating structures that make execution predictable and sustainable.
+
+### Execution Matters
+Ideas are easy. Execution is what creates value. I focus on turning ambiguous plans into **working systems teams can actually run**.
+
+### Automation Where It Helps
+Automation should remove friction, not add complexity. I build tools and workflows that reduce manual work and help teams scale efficiently.
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+https://linkedin.com/in/omvashishtha  
+
+🌍 Portfolio  
+https://omvashishtha.in  
+
+📧 Email  
+omvashishtha0412@gmail.com  
+
+---
+
+# ⚡ Personal Note
+
+I enjoy building systems that reduce chaos, improve clarity, and help teams move faster.
+
+Most delivery problems aren't technical — they're caused by unclear decisions and broken workflows.  
+Fix the system, and everything else improves.
+
+---
+
+☕ Fueled by green tea and chaotic good energy — this README evolves faster than my caffeine tolerance (12.12.03).
 
 
