@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Om Vashishtha - Technical Product Manager" width="100%" />
+  <img src="./M.jpeg" alt="Om Vashishtha - Technical Product Manager" width="100%" />
   
   <h1>Om Vashishtha</h1>
   <p><i>Technical Product Manager @ Amazon | Building at <a href="https://nocapcode.com" target="_blank" rel="noopener noreferrer">NoCapCode</a> | Architecting Automation & Scalable Systems</i></p>
