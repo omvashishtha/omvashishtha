@@ -2,43 +2,50 @@
   <img src="YOUR_BANNER_URL_HERE" alt="Om Vashishtha - Technical Product Manager" width="100%" />
   
   <h1>Om Vashishtha</h1>
-  <p><i>Technical Product Manager @ Amazon | Building Scalable Systems | Turning Chaos into Clarity</i></p>
+  <p><i>Technical Product Manager @ Amazon | Building at <a href="https://nocapcode.com" target="_blank" rel="noopener noreferrer">NoCapCode</a> | Architecting Automation & Scalable Systems</i></p>
 
-  <a href="https://linkedin.com/in/omvashishtha">LinkedIn</a> &nbsp; | &nbsp; 
-  <a href="https://omvashishtha.in">Portfolio</a> &nbsp; | &nbsp; 
-  <a href="mailto:hello@omvashishtha.in">Mail</a>
+  <a href="https://linkedin.com/in/omvashishtha" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp; | &nbsp; 
+  <a href="https://omvashishtha.in" target="_blank" rel="noopener noreferrer">Portfolio</a> &nbsp; | &nbsp; 
+  <a href="mailto:hello@omvashishtha.in" target="_blank" rel="noopener noreferrer">Mail</a>
 </div>
 
 ---
 
-### 🚀 About Me
-I sit at the intersection of **Systems Engineering and Product Strategy**. I don't just ship features; I build the operational frameworks that make teams predictable, efficient, and scalable. At **Amazon**, I spend my time automating the mundane, securing the critical, and translating business ambiguity into technical requirements.
+### ◈ Profile Overview
+I sit at the intersection of **Systems Engineering and Product Strategy**. My mission is to remove friction from the software development lifecycle. At **Amazon**, I build the operational platforms and AI-powered workflows that transform complex, high-latency processes into predictable, scalable systems. 
 
-### 🛠 Tech & Tooling
-*A breakdown of my operational toolkit—from ideation to deployment.*
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Core Stack** | Python, Flask, MySQL, JavaScript |
-| **Automation** | OpenAI, Ollama, n8n, Zapier, Make |
-| **Product/Mgmt** | Jira, Notion, ClickUp, Confluence, Figma |
-| **Security/Dev** | Git, GitHub, VS Code, JWT, Google Safe Browsing |
+Through my work at **[NoCapCode](https://nocapcode.com)**, I push the boundaries of the Low-Code movement, proving that speed and sophistication are not mutually exclusive when paired with strong architectural principles.
 
 ---
 
-### 💡 Execution Philosophy
+### ⌗ Technical Competencies
+
+| Domain | Expertise |
+| :--- | :--- |
+| **Web Core** | HTML5, CSS3 (SCSS/Tailwind), JavaScript (ES6+), Responsive Design |
+| **Backend & Cloud** | Python, Flask, **AWS (EC2, Lambda, S3, RDS)**, MySQL, PostgreSQL |
+| **AI & Automation** | OpenAI API, Ollama (LLMOps), n8n, Zapier, Make, Python Scripting |
+| **Low-Code/Hybrid** | NoCapCode Ecosystem, Retool, API Integrations, Webhooks |
+| **Security & Ops** | **Network Security, Auth (JWT, OAuth), DevSecOps, PhishTank, Google Safe Browsing** |
+| **Product/Mgmt** | Jira, Notion, ClickUp, Confluence, Figma, Agile/Scrum |
+
+---
+
+### ⍰ Execution Philosophy
 *Technical management is 20% syntax and 80% clarity.*
 
-* **Clarity > Speed:** A fast team moving in the wrong direction is just a faster failure. I prioritize "Definition of Done" before the first commit.
-* **Systems > Heroics:** I build self-documenting workflows that render "last-minute heroics" obsolete.
-* **Frictionless Design:** Automation should be invisible. If the system is harder to use than the manual process, I haven't finished the job.
+* **Clarity ⊳ Speed:** A fast team moving in the wrong direction is just a faster failure. I prioritize documentation and "Definition of Done" before the first commit.
+* **Systems ⊳ Heroics:** I build self-documenting workflows that render "last-minute heroics" obsolete.
+* **Security by Design:** Security is not an afterthought; it is baked into the architecture—from API validation to infrastructure deployment.
+* **Automation-First:** If a process happens twice, it’s a candidate for automation. If it happens three times, it’s a system.
 
 ---
 
-### 📈 Current Focus
-- **AI-Native Operations:** Integrating LLMs into legacy workflows to reduce manual latency.
-- **Decision Visibility:** Building dashboards that turn raw data into executive-level insights.
-- **Security-First Architecture:** Hardening internal tools against common threat vectors.
+### ◰ Current Focus & Labs
+- **AI-Native Operations:** Integrating LLMs and RAG into legacy enterprise workflows.
+- **Cloud Infrastructure:** Optimizing AWS serverless architectures for cost-efficient performance.
+- **Decision Visibility:** Building real-time operational dashboards that translate raw data into executive strategy.
+- **Experimental Labs:** Prototyping custom No-Code/Low-Code bridges that reduce technical debt.
 
 ---
 
